@@ -1,5 +1,6 @@
 ☁️ AWS Academy Cloud Architecting – Study Materials
 This repository contains learning materials, notes, and references from AWS Academy Cloud Architecting.
+
 📚 Contents
 Module 1: Welcome to AWS Academy Cloud Architecting
 Module 2: Introducing Cloud Architecting
@@ -21,6 +22,6 @@ Module 17: Bridging to Certification
 
 🧠 About
 These materials were used for self-study and revision while completing the AWS Academy Cloud Architecting course.
----
+
 🧑‍💻 Created by: Ganga Bharath
 📧 Email: bharath.23bce8244@vitapstudent.ac.in
