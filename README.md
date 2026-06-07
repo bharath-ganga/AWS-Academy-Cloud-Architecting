@@ -27,5 +27,5 @@ These materials were used for self-study and revision while completing the AWS A
 ---
 
 🧑‍💻 Created by: Ganga Bharath  
-📧 Email: bharath.23bce8244@vitapstudent.ac.in
+📧 Email: bharathganga7@gmail.com
 
